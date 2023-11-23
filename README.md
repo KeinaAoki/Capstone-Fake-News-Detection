@@ -1,4 +1,4 @@
-# Capstone
+# Capstone - Fake News Detection
 
 In today's digital age, social media and online news sources offers quick access to vast amounts of data. Yet the creation and dissemination of fake news poses an emerging challenge as it has the potential to generate mistrust in persons and institutions. There are broadly two types of fake information: misinformation and disinformation. 1) Misinformation refers to information which is incorrect or misleading or taken out of context unsuspectingly shared by people. 2) Disinformation refers to false information spread deliberately with the intent to deceive public opinion. While both mis/disinformation exist because people want to share a certain narrative that aligns with their interests and beliefs, disinformation is more dangerous and damaging because its intention is to destabilize societies. It is meant to influence people's beliefs, attitudes and consequentially, their behavior by purposely only providing one side of a narrative. Nonetheless, disinformation poses a threat to democracy because it reinforces polarizing viewpoints.
 
